@@ -1,6 +1,3 @@
-import typing
-
-
 class MyDataFrame:
     def __init__(self):
         self.names = []
